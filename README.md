@@ -1,0 +1,1 @@
+<h1>App Laravel 8 | InertiaJs | Jetstream | VueJs 2</h1>
